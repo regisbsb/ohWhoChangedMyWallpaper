@@ -10,7 +10,7 @@ Create a
 
     C:\wallpaper.bmp
 
-Download the zip, unzip anywhere and create a shortcut at
+Download the exe put anywhere and create a shortcut at
     %AppData%\Microsoft\Windows\Start Menu\Programs\Startup
 
 It will change your desktop to the bmp on login.
