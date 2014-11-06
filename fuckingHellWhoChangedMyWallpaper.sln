@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fuckingHellWhoChangedMyWallpaper", "fuckingHellWhoChangedMyWallpaper.csproj", "{8A1E4E82-E394-49D3-B6BA-58121F8CF169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1E4E82-E394-49D3-B6BA-58121F8CF169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1E4E82-E394-49D3-B6BA-58121F8CF169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1E4E82-E394-49D3-B6BA-58121F8CF169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1E4E82-E394-49D3-B6BA-58121F8CF169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 1f2d9824-7256-466c-8905-ded98972c9ce
+	EndGlobalSection
+EndGlobal
